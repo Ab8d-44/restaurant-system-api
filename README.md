@@ -24,7 +24,7 @@ Validation & Error Handling: Ensures data consistency and reliability
 
 Technologies : 
 
-Back-End: PHP, Laravel (8/9/10)
+Back-End: PHP, Laravel (11)
 
 Database: MySQL
 
@@ -32,6 +32,6 @@ API Testing: Postman
 
 Version Control: Git & GitHub
 
-Authentication: Laravel Passport / Sanctum (JWT optional)
+Authentication: Laravel Sanctum
 
 Others: Composer, MVC architecture, Eloquent ORM
